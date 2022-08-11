@@ -1,7 +1,10 @@
-# Restaurant-POS
+# Production
+
+
+## Restaurant-POS
 We will create a POS system for a restaurant
 
-## Create a world class POS system.
+### Create a world class POS system.
 1. First we need to gather al the information to establish the business rules for
 the restaurant.
 2. We need to create all the different meals that will be served.
